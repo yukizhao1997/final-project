@@ -1,0 +1,6 @@
+average loudness of 2020 top 100 songs are -5.811421052631579
+average loudness of 1970 top 100 songs are -10.587749999999998
+average instrumentalness of 2020 top 100 songs are 0.012049483157894737
+average instrumentalness of 1970 top 100 songs are 0.022010203750000006
+average speechiness of 2020 top 100 songs are 0.11113508771929825
+average speechiness of 1970 top 100 songs are 0.050187499999999996
